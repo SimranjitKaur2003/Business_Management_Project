@@ -51,7 +51,7 @@
 
 6.Open http://localhost:2330/home in any browser. <br>
 
-7.Now your tables will be created in the databse. <br>
+7.Now your tables will be created in the databse. <br> 
    - You have to add one admin data manually to login as admin, So add one admin data. <br>
     
 
